@@ -2,6 +2,9 @@
 
 MVC 5 (Razor), MongoDB 3.4.1, RoboMongo(MongoDB Manager), Bootstrap 3, jquery 1.9.1, Validação com DataAnnotations
 
+Instalando MongoDb Driver no projeto VS 2015
+https://www.nuget.org/packages/mongocsharpdriver/
+
 Instalando MongoDB
 https://www.mongodb.com/download-center#community
 
