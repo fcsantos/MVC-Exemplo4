@@ -38,5 +38,3 @@ Reabra a janela Prompt de comando e execute o comando "mongod".
 Se der o erro no prompt que não existe o diretorio "c:\data\db", favor
 criar estrutura de pasta no windows, abra o cmd, digite mkdir + espaço + \data\db
 verifique se foi criado a pasta data no c:
-
-Pronto!
